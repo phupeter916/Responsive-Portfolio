@@ -1,0 +1,195 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Times New Roman;
+    background-color: darkgray;
+    color: black;
+}
+
+h2 {
+    color: white;
+
+}
+
+.container {
+    float: left;
+    background-color: #4aaaa5;
+    width: 200px;
+    height: 80px;
+    margin-left: 210px;
+    text-align: center;
+    
+}
+
+
+
+
+header {
+    border-bottom: solid;
+    border-color: #cccccc;
+    background-color: #ffffff;
+    display: block;
+    width: 100%;
+    height: 80px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-family: Times New Roman;
+
+}
+
+nav {
+    float: right;
+    line-height: 70px;
+    background-color: white;
+    margin-right: 220px;
+    font-size: 20px;
+    
+}
+
+
+.About {
+    border-style: solid;
+    width: 960px;
+    height: 500px;
+    background-color: white;
+    color: #4aaaa5;
+    margin-left: 210px;
+    padding: 30px;
+    padding-top: 20px;
+    border-color: #dddddd;
+    
+}
+
+footer {
+    width: 100px;
+    height: 30px;
+    color: darkgray;
+
+}
+
+.contact {
+    border-style: solid;
+    width: 960px;
+    height: 500px;
+    background-color: white;
+    color: black;
+    margin-left: 200px;
+    padding: 30px;
+    padding-top: 20px;
+
+}
+
+nav {
+    color: grey;
+    background-color: #ffffff;
+    height: 40px;
+    text-align: center;
+    
+}
+
+nav li {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 80px;
+    text-align: center;
+    padding: 10px;
+    color: #777777;
+}
+    
+    
+
+
+
+footer {
+    background-color: #666666;
+    width: 1026px;
+    height: 60px;
+    margin-left: 210px;
+    text-align: center;
+}
+
+.container2 {
+    background-color: #4aaaa5;
+    width: 1026px;
+    height: 10px;
+    margin-left: 210px;
+}
+
+.Contact {
+    border-style: solid;
+    width: 960px;
+    height: 580px;
+    background-color: white;
+    color: #4aaaa5;
+    margin-left: 210px;
+    padding: 30px;
+    padding-top: 20px;
+    border-color: #dddddd;
+    
+
+
+    
+}
+
+.portfolio {
+    border-style: solid;
+    width: 960px;
+    height: 580px;
+    background-color: white;
+    color: #4aaaa5;
+    margin-left: 210px;
+    padding: 30px;
+    padding-top: 20px;
+    border-color: #dddddd;
+
+
+}
+
+.box1 {
+    width: 30%;
+    height: 25%;
+    background-color: red;
+
+}
+
+.box2 {
+    float: left;
+    width: 30%;
+    height: 25%;
+    background-color: red;
+    margin-top: 10px;
+
+}
+
+.box3 {
+    float: left;
+    width: 30%;
+    height: 25%;
+    background-color: red;
+    clear: both;
+    margin-top: 10px;
+    
+}
+
+.box3 {
+    float: left;
+    width: 30%;
+    height: 25%;
+    background-color: red;
+    clear: both;
+}
+
+
+p   {
+    color: #777777;
+    
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: blue;
+    }
+  }
