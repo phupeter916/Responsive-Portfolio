@@ -188,8 +188,95 @@ p   {
     
 }
 
-@media screen and (max-width: 600px) {
-    body {
-      background-color: blue;
+@media screen and (max-width: 980px) {
+    .About {
+        width: 100%;
+
+    }    
+
+    .portfolio {
+        width: 100%;
+
     }
+
+    .contact {
+        width: 100%;
+    }
+        
+
+    footer {
+        width: 100%;
+    }
+
+    .container2 {
+        width: 100%;
+        
+    }
+    
+    body {
+       
+
+    }
+
+}
+  
+
+  @media screen and (max-width: 768px) {
+
+    .About {
+        width: 100%;
+
+    }    
+
+    .portfolio {
+        width: 100%;
+
+    }
+
+    .contact {
+        width: 100%;
+    }
+        
+
+    footer {
+        width: 100%;
+    }
+
+    .container2 {
+        width: 100%;
+        
+    }
+    
+    
+    
+  }
+
+  @media screen and (max-width: 640px) {
+
+    .About {
+        width: 100%;
+
+    }    
+
+    .portfolio {
+        width: 100%;
+
+    }
+
+    .contact {
+        width: 100%;
+    }
+        
+
+    footer {
+        width: 100%;
+    }
+
+    .container2 {
+        width: 100%;
+        
+    }
+    
+    
+    
   }
